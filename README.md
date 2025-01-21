@@ -1,8 +1,6 @@
 # MatrixOnKaspa
 > **A decentralized Matrix protocol implementation on the Kaspa blockchain.**
 
-![MatrixOnKaspa](https://github.com/matrixonkaspa/matrixonkaspa/raw/main/assets/logo.png](https://avatars.githubusercontent.com/u/194713517?s=96&v=4)
-
 ## 🚀 Overview
 MatrixOnKaspa is an experimental project bringing the **Matrix protocol** to the **Kaspa blockchain**, leveraging its high-speed DAG-based architecture for decentralized, real-time communication.
 
