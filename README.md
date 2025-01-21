@@ -18,7 +18,7 @@ MatrixOnKaspa is an experimental project bringing the **Matrix protocol** to the
 
 ## 📈 Markets
 - **GroveX**: [https://grovex.com/onkaspa](https://www.grovex.io/en_US/trade/MATRIX_mUSDT)
-- **Guac Swap**: [https://x.com/onkaspa](https://swap.guac.fyi/token/MATRIX)
+- **Guac Swap**: [https://swap.guac.fyi](https://swap.guac.fyi/token/MATRIX)
 - **Chainge Dex**: [Chainge](https://dapp.chainge.finance/?fromChain=KAS&toChain=KAS&fromToken=USDT&toToken=MATRIX)
 
 ## 📜 License
