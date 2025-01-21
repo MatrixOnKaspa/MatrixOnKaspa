@@ -3,7 +3,7 @@
 
 ## 🚀 Overview
 
-### *You have been living in a dream world, Neo.*
+### *You have been living in a dream world...*
 MatrixOnKaspa is not just a project; it is a revolution. It brings the **Matrix protocol** to the **Kaspa blockchain**, a digital realm where decentralization is absolute, and real-time communication flows like streams of code in the vast digital ether.
 
 ## ✨ Features
