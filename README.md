@@ -9,6 +9,7 @@ MatrixOnKaspa is not just a project; it is a revolution. It brings the **Matrix 
 ## ✨ Features
 
 - **Break Free from Control**: No central servers, no overlords—only pure, untamed decentralization.
+> https://core.telegram.org/bots/blockchain-guidelines#:~:text=The%20Terms%20of%20Service%20for,cryptocurrency%20tokens%20or%20blockchain%20assets
 - **Encrypted Like the Source Code of Reality**: Every message secured with cryptographic end-to-end encryption.
 - **Lightning-Fast Transmission**: High-speed, low-latency messaging flows as fast as your mind can process.
 - **The System is Everywhere**: Integrate seamlessly with existing Matrix-based constructs.
