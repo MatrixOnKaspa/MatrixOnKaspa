@@ -41,6 +41,7 @@ We welcome those who wish to join the resistance. The code is open, the network 
 ## 🔗 Quick Links to Our Projects
 
 - **[matrix-neoboard](https://github.com/MatrixOnKaspa/matrix-neoboard)** - A collaborative whiteboard widget for Matrix.
+- **[matrix-livekit](https://github.com/MatrixOnKaspa/matrix-livekit)** - An SDK to scale Webrtc, allowing 3rd party Jack-in visibility to the Matrix Simulation.
 - **[element-web](https://github.com/MatrixOnKaspa/element-web)** - A glossy Matrix collaboration client for the web.
 - **[matrix-rust-sdk](https://github.com/MatrixOnKaspa/matrix-rust-sdk)** - Matrix Client-Server SDK for Rust.
 - **[matrix-hookshot](https://github.com/MatrixOnKaspa/matrix-hookshot)** - A bridge between Matrix and multiple project management services, such as GitHub, GitLab, and JIRA.
